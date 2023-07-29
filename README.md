@@ -13,3 +13,5 @@ npm start
 cd server
 npm run dev
 ```
+
+Contributor: Richard Pan, Tianyu Zhou, Steven Yan, Jing Wang.
